@@ -1,8 +1,7 @@
-# Node.js Cloudant Starter Overview
+# Antly
 
-The Node.js Cloudant Starter demonstrates how to use the Bluemix Cloudant NoSQL DB service. The app displays persisted files and lets the user upload new files or delete old files.
+Upload your picture and we help you put some ants on it for a gif that you can send to your best friends or in an e-vite.
 
-## Decomposition Instructions
+antly.elizr.us
 
-* See app.js for how to obtain and use the Cloudant credentials as well as the file CRUD API
-* See public/scripts/index.js and public/scripts/util.js for how the front-end calls the back-end API
+
